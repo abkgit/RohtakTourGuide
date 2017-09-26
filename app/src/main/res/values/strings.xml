@@ -1,0 +1,295 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=16] -->
+    <string name="app_name">Rohtak Tour Guide</string>
+
+    <!-- Category name for restaurants [CHAR LIMIT=20] -->
+    <string name="category_restaurants">Restaurants</string>
+
+    <!-- Category name for hotels [CHAR LIMIT=20] -->
+    <string name="category_hotels">Hotels</string>
+
+    <!-- Category name for places to visit [CHAR LIMIT=20] -->
+    <string name="category_places_to_visit">Places to Visit</string>
+
+    <!-- Category name for cities nearby [CHAR LIMIT=20] -->
+    <string name="category_cities_nearby">Cities Nearby</string>
+
+    <!-- **************************************************** -->
+
+    <!-- Location data for Restaurants Category -->
+
+    <string name="restaurants_gulab_name">Gulab Restaurant</string>
+    <string name="restaurants_gulab_address">NH-10, Near Sheela Bypass Chowk</string>
+    <string name="restaurants_gulab_description">Sweets, Fast Food, North-Indian Cuisine. World
+        famous for unique and wide range of Rewri, Gajaks and Chikkis. Manufacturers, retailers and
+        exporters of Rewri, Gajjak, Sweets, Namkeens and other related products.</string>
+
+    <string name="restaurants_fouji_name">Fouji Dhaba</string>
+    <string name="restaurants_fouji_address">59th Milestone, NH-10, Delhi-Rohtak Road</string>
+    <string name="restaurants_fouji_description">North-Indian Cuisine, Vegetarian-Friendly. Hot and
+        fresh food, round the corner. With vast parking area, you get value of your money.</string>
+
+    <string name="restaurants_pandit_name">Pandit Chat Bhandar</string>
+    <string name="restaurants_pandit_address">Delhi Road, Near Raj Cinema</string>
+    <string name="restaurants_pandit_description">Indian/Chinese Fast Food. Dahi Bhalle, Aloo Tikki,
+        Pav Bhaaji, Cholle Bhature Pizza, Dosa and more yummy food.</string>
+
+    <string name="restaurants_mcdonalds_name">McDonalds</string>
+    <string name="restaurants_mcdonalds_address">Delhi Road, Opp. Power House Office</string>
+    <string name="restaurants_mcdonalds_description">McDonalds Fast Food Joint. Classic,
+        long-running fast-food chain known for its burgers, fries and shakes.</string>
+
+    <string name="restaurants_subway_name">Subway</string>
+    <string name="restaurants_subway_address">Dev Colony, Delhi Road</string>
+    <string name="restaurants_subway_description">The Subway brand is the world\'s largest submarine
+    sandwich chain. It is a casual counter-serve chain for made-to-order sandwiches and
+        salads.</string>
+
+    <string name="restaurants_apsara_name">Apsara Restaurant</string>
+    <string name="restaurants_apsara_address">Sector 1, Delhi Bypass Chowk</string>
+    <string name="restaurants_apsara_description">Multi-Cuisine Restaurant. Serves breakfast,
+        lunch, dinner, coffee and drinks.</string>
+
+    <string name="restaurants_dominos_name">Dominos</string>
+    <string name="restaurants_dominos_address">Ground Floor, Rohtak-Sonipat Road,
+        Skytech Mall</string>
+    <string name="restaurants_dominos_description">Delivery/carryout chain offering a wide range
+        of pizza, plus chicken and other sides.</string>
+
+    <string name="restaurants_cafe_coffee_name">Cafe Coffee Day</string>
+    <string name="restaurants_cafe_coffee_address">Ground Floor, Rohtak-Sonipat Road,
+        Skytech Mall</string>
+    <string name="restaurants_cafe_coffee_description">Café Coffee Day is a coffee shop for the
+        young and the young at heart. We source our coffees from thousands of small coffee
+        planters.</string>
+
+    <string name="restaurants_pizza_wings_name">Pizza Wings</string>
+    <string name="restaurants_pizza_wings_address">NH-10, Near Sheela Bypass Chowk</string>
+    <string name="restaurants_pizza_wings_description">Pizza Wings is about much more than pizzas.
+        From freshly sauteed pastas and delicious appetizers to mocktails, desserts, soups and
+        salads, they have a wide range for you to feast on.</string>
+
+    <string name="restaurants_360_degrees_name">360 Degrees Breweries and Grill</string>
+    <string name="restaurants_360_degrees_address">1st Floor, Rohtak-Sonipat Road,
+        Skytech Mall</string>
+    <string name="restaurants_360_degrees_description">The most happening lounge club cum night
+        club of Rohtak. Offers fresh beer with renowned DJ\'s and fully loaded bar.</string>
+
+    <!-- **************************************************** -->
+
+    <!-- Location data for Hotels Category -->
+
+    <string name="hotels_d2m_name">D2M Hotel</string>
+    <string name="hotels_d2m_address">Sangum Complex, Near New Bus Stand
+        \n\nCall: +91-1262-255-777</string>
+    <string name="hotels_d2m_description">Convention Hall, Conference Facility, Parking Facility,
+        Travel Counter, Banquet Facility, Internet Access, Doctor-on-call, Air-Conditioning,
+        In-room Electronic Safe, Two In-house Multi-cuisine Restaurants Maharaja and Royala</string>
+
+    <string name="hotels_rivoli_name">Hotel Rivoli</string>
+    <string name="hotels_rivoli_address">Chanakya Puri, Sonipat Road, Near Sheela Bypass
+        \n\nCall: +91-92543-88828</string>
+    <string name="hotels_rivoli_description">Free High-Speed Internet (WiFi), Room Service,
+        In-house Restaurant, Free Parking, Conference Hall, Banquet Hall</string>
+
+    <string name="hotels_crystal_name">Hotel Crystal Continental</string>
+    <string name="hotels_crystal_address">Sheela Bye-Pass, Delhi Road
+        \n\nCall: +91-1262-274572</string>
+    <string name="hotels_crystal_description">In-room Dining, Air Conditioning, WiFi Internet,
+        In-room Safety Deposit Locker, Travel Desk, Wheel-chair Access, Doctor-on-call, Banquet
+        Facilities, In-house Multi-cuisine Restaurant, Free Parking</string>
+
+    <string name="hotels_sagar_name">Hotel Sagar Villa</string>
+    <string name="hotels_sagar_address">Sheela Bye-Pass, Delhi Road
+        \n\nCall: +91-92158-20008</string>
+    <string name="hotels_sagar_description">In-house Restaurant, Free Parking, WiFi, Air
+        Conditioning, In-house Bar</string>
+
+    <string name="hotels_harjais_name">Hotel Harjais</string>
+    <string name="hotels_harjais_address">Rohtak Habitat Center, Opp. Tilyar Lake, NH-10
+        \n\nCall: +91-98120-08642</string>
+    <string name="hotels_harjais_description">WiFi, Air Conditioning, Swimming Pool, Parking,
+        Meeting/Conference Room, Gym/Fitness Centre</string>
+
+    <string name="hotels_platinum_name">Hotel Platinum Plaza</string>
+    <string name="hotels_platinum_address">Sector-14, Main Market
+        \n\nCall: +91-93548-11000</string>
+    <string name="hotels_platinum_description">In-house Restaurant, Travel Desk, Doctor-on-call,
+        Business Centre, Parking Facility, Air-Conditioning, WiFi Internet, Complimentary Breakfast,
+        Gym, In-room Mini Bar</string>
+
+    <string name="hotels_royal_name">Hotel Royal Mall</string>
+    <string name="hotels_royal_address">Sector-14, Main Market
+        \n\nCall: +91-92153-31448</string>
+    <string name="hotels_royal_description">Free Parking, WiFi, Air Conditioning, Convention Hall,
+        Laptop-on-demand, Fax and Copier Service, Medical Assistance, Travel Desk, Car Rental
+        Services</string>
+
+    <string name="hotels_glassee_name">Hotel Glassee</string>
+    <string name="hotels_glassee_address">D-Park, Near Sate Bank of Patiala
+        \n\nCall: +91-92156-61110</string>
+    <string name="hotels_glassee_description">In-house Restaurant, Travel Counter, In-room Mini
+        Bar, Air Conditioning</string>
+
+    <!-- **************************************************** -->
+
+    <!-- Location data for Places to Visit Category -->
+
+    <string name="ptv_tilyar_lake_name">Tilyar Lake</string>
+    <string name="ptv_tilyar_lake_address">NH-10, Rohtak-Delhi Highway</string>
+    <string name="ptv_tilyar_lake_description">Tilyar Lake is one of the major tourist attractions
+        in the Indian state of Haryana. Fishing is permissible at Tilyar Lake after paying INR200
+        fishing fee. The lake lies in a 132-acre (0.53 km2) area and forms an integral part of the
+        tourist setup, making it one of the greenest stretches in the adjoining area. The spacious
+        lawns and the scenery on view make this resort a great place to relax, and people visit
+        from as far away as Mumbai. It is also an excellent spot for watching a variety of birds
+        that flock on the little island located in the middle of the lake. ENtry to Tilyar lake
+        is free.</string>
+
+    <string name="ptv_tilyar_zoo_name">Tilyar Zoo</string>
+    <string name="ptv_tilyar_zoo_address">NH-10, Rohtak-Delhi Highway</string>
+    <string name="ptv_tilyar_zoo_description">Visitor facilities include landscaping, walkways and
+        trails, gardens, hillocks, lakes, artificial waterfalls, cafe, visitor toilets and resting
+        shelters, watch towers, drinking water facilities etc. Entry is only INR10 for adults and
+        INR5 for kids.</string>
+
+    <string name="ptv_banni_name">Banni Khera Farm</string>
+    <string name="ptv_banni_address">Village Samar Gopalpur, Jind Bypass</string>
+    <string name="ptv_banni_description">The farm house is spread over 10 acres of land. It is
+        designed as per the Vaastu Shastra. Farming is a year round occupation with a variety of
+        activities occurring throughout the year. Visitors are welcome to explore the haveli at
+        Banni Khera Farms and fields at leisure. Its tranquil location is enhanced by on-site
+        fishing. The exclusive setting makes it an ideal place for people seeking an experience,
+        of true ethnic and cultural ethos and exposure of modern-day farming in India.</string>
+
+    <string name="ptv_merion_name">Merion Sky Mall</string>
+    <string name="ptv_merion_address">Sector 3, Sonepat Road</string>
+    <string name="ptv_merion_description">There are a wide range of clothing shops, restaurants
+        and food court in Skytech Mall where one can splurge into great delicacies. There\'s
+        availability of multiplexes too, so if not interested in shopping, movies are the best
+        option to go for.</string>
+
+    <string name="ptv_splash_name">Splash Water World</string>
+    <string name="ptv_splash_address">Rajeev Nagar</string>
+    <string name="ptv_splash_description">Slash is nestled in natural beauty with a backdrop of
+        cooling shelter of trees. An idyllic hideaway, Splash offers matchless excitement and
+        promises a whole lot of fun time with water slides, stimulated Rain Dances and Wave Pool.
+        Splash brings you a variety of ultramodern water slides and rides that thrill you and
+        dip you in ecstatic Splash experience. A pollution free atmosphere combined with
+        international standards of safety provides absolute privacy to couples and family and
+        is a suitable venue to spend some quality time with your loved ones.</string>
+
+    <string name="ptv_sai_name">Sai Temple</string>
+    <string name="ptv_sai_address">NH-10 Rohtak-Delhi Highway</string>
+    <string name="ptv_sai_description">This is very popular in the area and once can see long
+        queues on Thursday here. People come here with their wishes and to get blessings of
+        Sai.</string>
+
+    <string name="ptv_mansarovar_name">Mansarovar Park</string>
+    <string name="ptv_mansarovar_address">Mansarovar Colony, Delhi Road</string>
+    <string name="ptv_mansarovar_description">The Mansarovar Park is located in the core of the
+        city where visitors can avail hotels or resorts for their stay and visit the park
+        frequently for the relaxation. The reward should go to the Municipal Corporation of
+        Haryana that has constructed this park and are maintaining it beautifully.</string>
+
+    <string name="ptv_gufa_name">Gufa Wala Temple</string>
+    <string name="ptv_gufa_address">Char-Khamba, Model Town</string>
+    <string name="ptv_gufa_description">A famous temple in the city with a small cave(gufa) as
+        its special attraction.</string>
+
+    <!-- **************************************************** -->
+
+    <!-- Location data for Cities Nearby Category -->
+
+    <string name="cities_delhi_name">New Delhi</string>
+    <string name="cities_delhi_address">66km (1h 40m) from Rohtak</string>
+    <string name="cities_delhi_description">New Delhi is the capital of India and one of Delhi
+        city\'s 11 districts. The foundation stone of the city was laid by George V, Emperor of
+        India during the Delhi Durbar of 1911. It was designed by British architects, Sir Edwin
+        Lutyens and Sir Herbert Baker. The new capital was inaugurated on 13 February 1931, by
+        Viceroy and Governor-General of India Lord Irwin.
+        \n\nAlthough colloquially Delhi and New Delhi as names are used interchangeably to refer to
+        the jurisdiction of the National Capital Territory (NCT) of Delhi, these are two distinct
+        entities, and the latter is a small part of the former. New Delhi has been selected as one
+        of the hundred Indian cities to be developed as a smart city under PM Narendra Modi\'s
+        flagship Smart Cities Mission.</string>
+
+    <string name="cities_chandigarh_name">Chandigarh</string>
+    <string name="cities_chandigarh_address">240km (3h 30m) from Rohtak</string>
+    <string name="cities_chandigarh_description">Chandigarh is a city and a union territory of
+        India that serves as the capital of the Indian states of Punjab and Haryana. As a union
+        territory, the city is governed directly by the Union Government and is not part of either
+        state.
+        \n\nChandigarh is bordered by the state of Punjab to the north, west and south, and to the
+        state of Haryana to the east. Chandigarh is considered to be a part of the Chandigarh
+        capital region or Greater Chandigarh, which includes Chandigarh, and the cities of Mohali,
+        Zirakpur, Kharar, Kurali (in Punjab) and the city of Panchkula (in Haryana).
+        \n\nChandigarh was one of the early planned cities in the post-independence India and is
+        internationally known for its architecture and urban design. The master plan of the
+        city was prepared by Swiss-French architect Le Corbusier, which transformed from earlier
+        plans created by the Polish architect Maciej Nowicki and the American planner Albert Mayer.
+        Most of the government buildings and housing in the city, were designed by the Chandigarh
+        Capital Project Team headed by Le Corbusier, Jane Drew and Maxwell Fry. In 2015, an
+        article published by BBC named Chandigarh as one of the perfect cities of the world in
+        terms of architecture, cultural growth and modernisation.
+        \n\nChandigarh’s Capitol Complex was in July 2016 declared by UNESCO as World Heritage at
+        the 40th session of World Heritage Conference held in Istanbul. UNESCO inscription was
+        under \"The Architectural Work of Le Corbusier an outstanding contribution to the
+        Modern Movement\". The Capitol Complex buildings include the Punjab and Haryana High
+        Court, Punjab and Haryana Secretariat and Punjab and Haryana Assembly along with monuments
+        Open hand, Martyrs Memorial, Geometric Hill and Tower of Shadow.
+        \n\nThe city was reported to be the cleanest in India in 2010, based on a national
+        government study. In 2016, Chandigarh was declared as the second cleanest city of India
+        under Swachh Bharat Survekshan. Chandigarh is also known to be the first smoke-free city
+        in India.</string>
+
+
+    <string name="cities_gurgaon_name">Gurgaon</string>
+    <string name="cities_gurgaon_address">84km (1h 54m) from Rohtak</string>
+    <string name="cities_gurgaon_description">Gurgaon, officially known as Gurugram, is a city in
+        the Indian state of Haryana and is located near the National Capital Region of India. It
+        is 32 kilometres (20 mi) southwest of New Delhi and 268 kilometres (167 mi) southwest of
+        Chandigarh, the state capital. As of 2011, Gurgaon had a population of 876,824.
+        \n\nWitnessing rapid urbanization, Gurgaon has become a leading financial and industrial
+        hub with the third highest per capita income in India. Historically known as Gurugram, the
+        city\'s economic growth story started when the leading Indian automobile manufacturer Maruti
+        Suzuki India Limited established a manufacturing plant in Gurgaon in the 1970s. Today,
+        Gurgaon has local offices for more than 250 Fortune 500 companies.</string>
+
+    <string name="cities_panipat_name">Panipat</string>
+    <string name="cities_panipat_address">77km (1h 18m) from Rohtak</string>
+    <string name="cities_panipat_description">Panipat is an ancient and historic city in Haryana,
+        India. It is 90 km north of Delhi and 169 km south of Chandigarh on NH-1. The battles
+        fought at the city in 1526, 1556 and 1761 were turning points in Indian history. The city
+        is famous in India by the name of \"City of Weavers\" and \"Textile City\".
+    </string>
+
+    <string name="cities_kurukshetra_name">Kurukshetra</string>
+    <string name="cities_kurukshetra_address">150km (2h 14m) from Rohtak</string>
+    <string name="cities_kurukshetra_description">Kurukshetra is a city in the state of Haryana,
+        India. It is also known as Dharmakshetra (\"Holy Place\"). According to the
+        Puranas, Kurukshetra is a region named after King Kuru, the ancestor of Kauravas and
+        Pandavas, as depicted in epic Mahabharata. The importance of the place is attributed to
+        the fact that the Kurukshetra War of the Mahabharata was fought on this land and the
+        Bhagavad Gita was preached here during the war when Lord Krishna found Arjuna in a
+        terrible dilemma.
+        \n\nBefore the establishment of a refugee camp named Kurukshetra in 1947, Thanesar was the
+        name of the tehsil headquarters and the town. Thanesar or Sthaneswar is a historical town
+        located adjacent to what is now the newly created Kurukshetra city. Thanesar derives its
+        name from the word \"Sthaneshwar\", which means \"Place of God\". The
+        Sthaneshwar Mahadev Temple, whose presiding deity is Lord Shiva, is believed to be the
+        oldest temple in the vicinity. Local hearsay identifies the legendary
+        \"Kurukshetra\" with a place near Thanesar. A few kilometers from Kurukshetra
+        is the village known as Amin, where there are remnants of a fort which is believed to be
+        Abhimanyu\'s.
+        \n\nIn most ancient Hindu texts, Kurukshetra is not a city but a region. The boundaries of
+        Kurukshetra correspond roughly to the central and western parts of state of Haryana and
+        southern Punjab. Thus according to the Taittiriya Aranyaka, the Kurukshetra region is
+        south of Turghna (Srughna/Sugh in Sirhind, Punjab), north of Khandava (Delhi and Mewat
+        region), east of Maru (desert) and west of Parin.
+        \n\nIn early July 2013 the Haryana Department of Archaeology and Museums announced that
+        the earlier excavated remains of a Buddhist stupa in Kurukshetra were ready to be displayed
+        for the public.</string>
+
+</resources>
+
